@@ -204,7 +204,7 @@ html,body{
 .navbar-brand,
 .navbar-brand:hover,
 .navbar-brand:focus{
-	margin-top: 33px;
+	margin-top: 45px;
 	padding:0;
 }/* navbar-brand */
 
@@ -232,6 +232,7 @@ html,body{
 .sticky  .navbar-default .navbar-nav li a:hover{
 	color: #fff;
 	margin: 0px 0px;
+	
 }
 .sticky .navbar-default .navbar-toggle ,
 .sticky .navbar-default .navbar-toggle:focus,
