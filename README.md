@@ -1,2 +1,0 @@
-# boababtech.github.io
-Boabab
