@@ -665,10 +665,21 @@ html,body{
 .service-img img{
 
 	box-shadow:0 5px 20px rgba(0, 0, 0, 0.2);
+	margin: 30px;
+	height: 100px;
+
+	
+}
+
+.product-img img{
+
+	box-shadow:0 5px 20px rgba(0, 0, 0, 0.2);
+	margin: 30px;
 	height: 400px;
 
 	
 }
+
 /*.service-txt*/
 .service-single {
 	max-width: 304px;
