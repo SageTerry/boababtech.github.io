@@ -1349,6 +1349,14 @@ a:active.learn-btn{
 /*-------------------------------------
 		14. Contact
 --------------------------------------*/
+.recruit {
+    padding: 115px 0 120px;
+    background:url(../../assets/images/footer/team.jpg)no-repeat;
+	background-position:center;
+	background-size: cover;
+	position: relative;
+}
+
 .contact {
     padding: 115px 0 120px;
     background:url(../../assets/images/footer/map.jpg)no-repeat;
@@ -1357,6 +1365,15 @@ a:active.learn-btn{
 	position: relative;
 }
 .contact:before{
+	background:rgba(255, 255, 255, 0.85);
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	content:'';
+}
+.recruit:before{
 	background:rgba(255, 255, 255, 0.85);
 	position:absolute;
 	left:0;
