@@ -531,6 +531,7 @@ html,body{
     line-height: 1.8;
 }/* section-header */
 
+a { color: inherit; } 
 
 /*single-we-do-box */
 .we-do-carousel {
